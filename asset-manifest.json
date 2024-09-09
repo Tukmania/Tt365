@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0dc747e5.css",
+    "main.js": "/static/js/main.3bf33df3.js",
+    "static/js/787.df86971b.chunk.js": "/static/js/787.df86971b.chunk.js",
+    "static/media/newestlogo.png": "/static/media/newestlogo.0a7bdb54a92a5aa2eb8d.png",
+    "index.html": "/index.html",
+    "static/media/spinner.svg": "/static/media/spinner.e08fecaf56a85e9fdc336a420348e7c7.svg",
+    "main.0dc747e5.css.map": "/static/css/main.0dc747e5.css.map",
+    "main.3bf33df3.js.map": "/static/js/main.3bf33df3.js.map",
+    "787.df86971b.chunk.js.map": "/static/js/787.df86971b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dc747e5.css",
+    "static/js/main.3bf33df3.js"
+  ]
+}
